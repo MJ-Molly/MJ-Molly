@@ -60,6 +60,7 @@ const me = {
   Handled audit engagements, tax return preparation, and bookkeeping for various clients
 - 結合外商豐富經歷，回歸事務所環境深化專業
   Applied multinational experience back in a firm setting
+  
 
 ---
 
@@ -75,13 +76,13 @@ const me = {
 ---
 
 **會計 / 稅務 / 查帳** · 惠信會計師事務所 · 誠品聯合會計師事務所 · 中山聯合會計師事務所(外商部)
-`~1–3 years`
+`~1–4 years`
 - 承接多元客戶之查帳、稅務及帳務處理
   Performed audit, tax compliance, and bookkeeping for a diverse client portfolio
 - 跨製造、零售、服務業，累積跨產業實務經驗
   Gained cross-industry exposure in manufacturing, retail, and services
-- 奠定台灣稅務基礎：營所稅、營業稅、扣繳申報、各項稅務專案申請
-  Built foundational expertise in Taiwan tax: 營所稅、營業稅、扣繳申報
+- 各項稅務申報及專案申請：營所稅、營業稅、扣繳申報、工商登記
+  Various Tax Filing and Project Applications: Corporate Income Tax, Business Tax (VAT), Withholding Tax Filing, Various Tax Project Applications, Commercial Registration
 
 ---
 
