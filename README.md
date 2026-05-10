@@ -43,8 +43,8 @@ const me = {
 
 **財會經理 (Accounting & Finance Manager)** · 禾麗陽生技股份有限公司
 `~2 years · 現任 Present`
-- 負責全循環會計作業及月結、年結作業、財報稅報審核、財報分析
-  Oversee full-cycle accounting and monthly/annual financial close、Review Financial Statement & Tax Report , Financial Statement Analysis
+- 配合集團作業、、財報稅報審核、財報分析、負責全循環會計作業及月結、年結作業
+  Group Operations Coordination、Review Financial Statement & Tax Report , Financial Statement Analysis、Oversee full-cycle accounting and monthly/annual financial close
 - 帶領並指導 1 位會計人員，管理工作分配與績效
   Lead and mentor 1 accountant, managing workload allocation and performance review
 - **跨部門 SAP 專案**：與業務部、新品研發部協作推動 SAP 導入，將財務需求轉化為業務流程
@@ -54,7 +54,7 @@ const me = {
 
 ---
 
-**會計 / 稅務 / 查帳** · 中山聯合會計師事務所
+**會計 / 稅務 / 查帳** · 中山聯合會計師事務所 (Chung Sun Certified Public Accountants )
 `~ 1 year`
 - 承接查核、稅務申報及各產業客戶帳務處理
   Handled audit engagements, tax return preparation, and bookkeeping for various clients
@@ -64,7 +64,7 @@ const me = {
 
 ---
 
-**主辦會計 (Senior Accountant)** · 布林克保全股份有限公司 (Brink's Taiwan)
+**主辦會計 (Cheif Accountant)** · 布林克保全股份有限公司 (Brink's Taiwan)
 `~4 years`
 - 負責外商全循環會計作業
   Managed full-cycle accounting for a multinational security services company
@@ -75,8 +75,8 @@ const me = {
 
 ---
 
-**會計 / 稅務 / 查帳** · 惠信會計師事務所 · 誠品聯合會計師事務所 
-`~1–4 years`
+**會計記帳 / 稅務申報 / 查帳 / 工商登記 (Accounting & Bookkeeping / Tax Filing / Tax Audit / Commercial Registration) ** · 惠信會計師事務所 · 誠品聯合會計師事務所 (WeTec International CPAs.)
+`~2.5 years`
 - 承接多元客戶之查帳、稅務及帳務處理
   Performed audit, tax compliance, and bookkeeping for a diverse client portfolio
 - 跨製造、零售、服務業，累積跨產業實務經驗
@@ -86,7 +86,7 @@ const me = {
 
 ---
 
-**會計 (Accountant)** · 宜台股份有限公司
+**會計 (Accountant)** · 宜台股份有限公司 (GIFTEX CORPORATION LIMITED.)
 `~8 years`
 - 負責應收付帳款、月結及財務報表編製
   Managed AP/AR, monthly close, and financial statement preparation
