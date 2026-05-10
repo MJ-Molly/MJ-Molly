@@ -43,8 +43,8 @@ const me = {
 
 **財會經理 (Accounting & Finance Manager)** · 禾麗陽生技股份有限公司
 `~2 years · 現任 Present`
-- 負責全循環會計作業及月結、年結作業
-  Oversee full-cycle accounting and monthly/annual financial close
+- 負責全循環會計作業及月結、年結作業、財報稅報審核、財報分析
+  Oversee full-cycle accounting and monthly/annual financial close、Review Financial Statement & Tax Report , Financial Statement Analysis
 - 帶領並指導 1 位會計人員，管理工作分配與績效
   Lead and mentor 1 accountant, managing workload allocation and performance review
 - **跨部門 SAP 專案**：與業務部、新品研發部協作推動 SAP 導入，將財務需求轉化為業務流程
@@ -54,8 +54,8 @@ const me = {
 
 ---
 
-**會計 / 稅務 / 查帳** · 會計師事務所
-`~1 year`
+**會計 / 稅務 / 查帳** · 中山聯合會計師事務所
+`~ 1 year`
 - 承接查核、稅務申報及各產業客戶帳務處理
   Handled audit engagements, tax return preparation, and bookkeeping for various clients
 - 結合外商豐富經歷，回歸事務所環境深化專業
@@ -75,7 +75,7 @@ const me = {
 
 ---
 
-**會計 / 稅務 / 查帳** · 惠信會計師事務所 · 誠品聯合會計師事務所 · 中山聯合會計師事務所(外商部)
+**會計 / 稅務 / 查帳** · 惠信會計師事務所 · 誠品聯合會計師事務所 
 `~1–4 years`
 - 承接多元客戶之查帳、稅務及帳務處理
   Performed audit, tax compliance, and bookkeeping for a diverse client portfolio
