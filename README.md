@@ -60,7 +60,8 @@ const me = {
   Handled audit engagements, tax return preparation, and bookkeeping for various clients
 - 結合外商豐富經歷，回歸事務所環境深化專業
   Applied multinational experience back in a firm setting
-  
+- 各項稅務專案申請 : 如外國營利事業跨境銷售電子勞務適用淨利率、利潤貢獻程度申請及申報
+  Tax Application Projects: Net Profit Ratio and Profit Contribution Ratio Applications for Foreign Enterprises Engaged in Cross-Border Electronic Services
 
 ---
 
